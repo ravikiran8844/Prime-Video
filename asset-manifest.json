@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Prime-Video/static/css/main.af889f79.chunk.css",
+    "main.js": "/Prime-Video/static/js/main.d6dbee94.chunk.js",
+    "main.js.map": "/Prime-Video/static/js/main.d6dbee94.chunk.js.map",
+    "runtime-main.js": "/Prime-Video/static/js/runtime-main.ae367ce4.js",
+    "runtime-main.js.map": "/Prime-Video/static/js/runtime-main.ae367ce4.js.map",
+    "static/css/2.2e4a9da2.chunk.css": "/Prime-Video/static/css/2.2e4a9da2.chunk.css",
+    "static/js/2.130694ae.chunk.js": "/Prime-Video/static/js/2.130694ae.chunk.js",
+    "static/js/2.130694ae.chunk.js.map": "/Prime-Video/static/js/2.130694ae.chunk.js.map",
+    "index.html": "/Prime-Video/index.html",
+    "static/css/2.2e4a9da2.chunk.css.map": "/Prime-Video/static/css/2.2e4a9da2.chunk.css.map",
+    "static/css/main.af889f79.chunk.css.map": "/Prime-Video/static/css/main.af889f79.chunk.css.map",
+    "static/js/2.130694ae.chunk.js.LICENSE.txt": "/Prime-Video/static/js/2.130694ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae367ce4.js",
+    "static/css/2.2e4a9da2.chunk.css",
+    "static/js/2.130694ae.chunk.js",
+    "static/css/main.af889f79.chunk.css",
+    "static/js/main.d6dbee94.chunk.js"
+  ]
+}
